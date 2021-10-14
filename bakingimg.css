@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Noto+Sans+Mono:wght@500&display=swap');
+body{
+    background-image: url(./Pastel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Ephesis', cursive;
+}
+
+h1{
+    color: darkorange;
+    font-size: 62px;
+    text-align: center;
+}
+
+p{
+    color: green;
+    font-size: 42px;
+    text-align: justify;
+}
+
+h2{
+    font-size: 37px;
+}
+
+a{
+    font-size: 40px;
+}
+
+img{
+    height: 200px;
+    width: 300px
+}
